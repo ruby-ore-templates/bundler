@@ -5,4 +5,4 @@ ignore:
 
 development_dependencies:
   bundler: ~> 1.2
-  rake: ~> 10.0
+  rake: 
