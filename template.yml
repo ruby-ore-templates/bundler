@@ -1,3 +1,6 @@
+disable:
+  - bundler_light
+
 ignore:
   - /.bundle
   - /Gemfile.lock
