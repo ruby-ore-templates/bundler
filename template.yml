@@ -1,11 +1,7 @@
-disable:
-  - bundler_light
-
 ignore:
   - /.bundle
   - /Gemfile.lock
   - /vendor/cache/*.gem
 
 development_dependencies:
-  bundler: ~> 1.10
   rake: ~> 10
