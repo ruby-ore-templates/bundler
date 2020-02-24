@@ -1,0 +1,3 @@
+---
+BUNDLE_WITHOUT: "extra_devel:deployment"
+BUNDLE_WITH: "development"
